@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "サマーレイン・ダイバー",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-25T04:31:53.573852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマーレイン・ダイバー",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_サマーレイン・ダイバー_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サマーレイン・ダイバー",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_サマーレイン・ダイバー_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーレイン・ダイバー",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_サマーレイン・ダイバー_King_Gnu.txt"
+    }
+  ]
+}
