@@ -1,0 +1,35 @@
+# King Gnu – サマーレイン・ダイバー
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.05] "Dance, dance, anyways, it'll work", she says
+[00:13.97] "Dance, dance, anyways, it'll work"
+[00:21.92] "Dance, dance, anyways, it'll work", she says
+[00:29.81] "Dance, dance, anyways, it'll work"
+[00:38.11] "Dance, dance, anyways, it'll work", she says
+[00:46.04] "Dance, dance, anyways, it'll work"
+[01:03.54] 
+[00:54.97] 背後の雨は昨日の2人を
+[01:02.72] 青く深く染め上げてゆく
+[01:10.42] 最後の手触りは 心の痛みに
+[01:21.03] 深く潜ってゆく
+[01:24.53] 
+[01:30.01] "Dance, dance, anyways, it'll work", she says
+[01:38.17] "Dance, dance, anyways, it'll work"
+[01:46.12] "Dance, dance, anyways, it'll work", she says
+[01:54.13] "Dance, dance, anyways, it'll work"
+[02:11.63] 
+[02:02.93] さっきまで窓に映った貴女は
+[02:10.78] 梅雨の中へと溶けて消えてゆく
+[02:19.05] "さあ、お乱れ、最後の夜だろ？"
+[02:24.90] ありのままに踊り狂ってゆく
+[02:31.40] 
+[03:10.14] "Dance, dance, anyways, it'll work", she says
+[03:17.99] "Dance, dance, anyways, it'll work"
+[03:26.07] "Dance, dance, anyways, it'll work", she says
+[03:34.18] "Dance, dance, anyways, it'll work"
+[03:42.18] "Dance, dance, anyways, it'll work", she says
+[03:50.10] "Dance, dance, anyways, it'll work"
+[03:57.93] "Dance, dance..."
+```
